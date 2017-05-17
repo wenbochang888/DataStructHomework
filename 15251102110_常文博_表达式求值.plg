@@ -1,0 +1,41 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: 15251102110_常文博_表达式求值 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\Chang-pc\AppData\Local\Temp\RSP21AD.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/15251102110_常文博_表达式求值.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Users\Chang-pc\Desktop\桌面2\数据结构实验报告\15251102110_常文博_表达式求值(new)\fstream.cpp"
+"C:\Users\Chang-pc\Desktop\桌面2\数据结构实验报告\15251102110_常文博_表达式求值(new)\function.cpp"
+"C:\Users\Chang-pc\Desktop\桌面2\数据结构实验报告\15251102110_常文博_表达式求值(new)\Main.cpp"
+"C:\Users\Chang-pc\Desktop\桌面2\数据结构实验报告\15251102110_常文博_表达式求值(new)\myStack.cpp"
+]
+Creating command line "cl.exe @"C:\Users\Chang-pc\AppData\Local\Temp\RSP21AD.tmp"" 
+Creating temporary file "C:\Users\Chang-pc\AppData\Local\Temp\RSP21AE.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/15251102110_常文博_表达式求值.pdb" /debug /machine:I386 /out:"Debug/15251102110_常文博_表达式求值.exe" /pdbtype:sept 
+".\Debug\fstream.obj"
+".\Debug\function.obj"
+".\Debug\Main.obj"
+".\Debug\myStack.obj"
+]
+Creating command line "link.exe @"C:\Users\Chang-pc\AppData\Local\Temp\RSP21AE.tmp""
+<h3>Output Window</h3>
+Compiling...
+fstream.cpp
+function.cpp
+Main.cpp
+myStack.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+15251102110_常文博_表达式求值.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
